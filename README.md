@@ -1,4 +1,4 @@
-# Gerenciador de Noticias - Lista Encadeada (C)
+# Gerenciador de Notícias - Lista Encadeada (C)
 
 Trabalho pratico desenvolvido em Linguagem C focado na implementacao de estruturas de dados dinamicas, especificamente Listas e Pilhas, aplicadas ao gerenciamento de noticias.
 
